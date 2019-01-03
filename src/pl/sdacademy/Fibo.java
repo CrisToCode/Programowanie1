@@ -10,10 +10,4 @@ public class Fibo {
         else
             return fibonacciRecursion(n - 1) + fibonacciRecursion(n - 2);
     }
-
-    public static void main(String[] args) {
-        //TODO pobierz indeks elementu ciągu
-
-        //TODO wywołaj funkcje fibo i wyświetl wynik
-    }
 }
